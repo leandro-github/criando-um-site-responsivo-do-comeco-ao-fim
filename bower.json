@@ -1,0 +1,17 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/leandro-github/criando-um-site-responsivo-do-comeco-ao-fim",
+  "authors": [
+    "leandro <leandrofagneroliveira@yahoo.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
